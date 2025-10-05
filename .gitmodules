@@ -1,5 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "Copula.Markov"]
+	path = Copula.Markov
+	url = https://github.com/cran/Copula.Markov
+[submodule "Copula.surv"]
+	path = Copula.surv
+	url = https://github.com/cran/Copula.surv
+[submodule "compound.Cox"]
+	path = compound.Cox
+	url = https://github.com/cran/compound.Cox
+[submodule "depend.truncation"]
+	path = depend.truncation
+	url = https://github.com/cran/depend.truncation
+[submodule "double.truncation"]
+	path = double.truncation
+	url = https://github.com/cran/double.truncation
+[submodule "g.ridge"]
+	path = g.ridge
+	url = https://github.com/cran/g.ridge
+[submodule "joint.Cox"]
+	path = joint.Cox
+	url = https://github.com/cran/joint.Cox
+[submodule "uni.survival.tree"]
+	path = uni.survival.tree
+	url = https://github.com/cran/uni.survival.tree
